@@ -1,4 +1,9 @@
-### Hi there 👋
+# 안녕하세요! 장하석입니다.👋
+
+### “ 안정성을 바탕으로 혁신을 추구하는 백엔드 엔지니어 장하석입니다. ”
+
+[[Notion Portfolio]](https://www.notion.so/deanvelop/Dean-s-Portfolio-5755bfc9f30a4d1c90fd9fd32b55f0f5)
+> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasky96&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasky96&layout=compact&theme=buefy)
