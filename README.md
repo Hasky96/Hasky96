@@ -4,8 +4,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasky96&layout=compact&theme=buefy)
 
 
-출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀]
-
 <!--
 **Hasky96/Hasky96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
