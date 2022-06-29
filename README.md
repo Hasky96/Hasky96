@@ -3,8 +3,6 @@
 ### “ 안정성을 바탕으로 혁신을 추구하는 백엔드 엔지니어 장하석입니다. ”
 <hr/>
 
-[[Notion Portfolio]](https://deanvelop.notion.site/Dean-s-Portfolio-5755bfc9f30a4d1c90fd9fd32b55f0f5)
-
 [[Blog]](https://dean-velop.tistory.com/)
 
 
