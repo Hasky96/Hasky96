@@ -7,8 +7,12 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasky96&show_icons=true&theme=buefy)
+<hr/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasky96&layout=compact&theme=buefy)
-
+<hr/>
+<p align="center">
+<img align='' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haseok1020">
+</p>
 
 <!--
 **Hasky96/Hasky96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
